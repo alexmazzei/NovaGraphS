@@ -1,13 +1,10 @@
----
-author:
-- |
-  \
-  Dipartimento di Informatica, Università degli Studi di Torino
-bibliography:
-- NoVAGraphS.bib
+#NovaGraphS: 
+ 
+Principal Investigator: Alessandro Mazzei, Dipartimento di Informatica, Università degli Studi di Torino
+
 ---
 
-# Sinossi del progetto NoVAGraphS {#sinossi-del-progetto-novagraphs .unnumbered}
+## Sinossi del progetto 
 
 Il progetto NoVAGraphS (Non-Visual Access to Graphical Structures)
 intende affrontare il problema dell'accesso all'informazione scientifica
