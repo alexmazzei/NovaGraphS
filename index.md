@@ -1,4 +1,4 @@
-#NovaGraphS: 
+# Sinossi del progetto
  
 Principal Investigator: Alessandro Mazzei, Dipartimento di Informatica, Università degli Studi di Torino
 
